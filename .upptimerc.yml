@@ -9,7 +9,7 @@ sites:
 status-website:
   baseUrl: /dsat-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: ocean
+  theme: night
   name: DSAT | DISSM/INPE
   introTitle: "**DSAT** is a web-based tool for interactive visualization of GOES-16 data and products received and processed by INPE."
   introMessage: This is a status page which uses **real-time** data from [GitHub repository](https://github.com/upptime/upptime).
