@@ -1,7 +1,7 @@
 url: https://www.cptec.inpe.br/dsat
-status: down
-code: 503
-responseTime: 20475
-lastUpdated: 2023-08-03T23:00:14.285Z
+status: up
+code: 200
+responseTime: 2893
+lastUpdated: 2023-08-03T23:11:02.550Z
 startTime: Tue Aug 01 2023 14:36:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
