@@ -4,19 +4,19 @@
     "url": "https://www.cptec.inpe.br/dsat",
     "icon": "https://icons.duckduckgo.com/ip3/www.cptec.inpe.br.ico",
     "slug": "dsat",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 3805,
-    "timeDay": 4611,
-    "timeWeek": 3805,
-    "timeMonth": 3805,
-    "timeYear": 3805,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4545,
+    "timeDay": 5737,
+    "timeWeek": 4545,
+    "timeMonth": 4545,
+    "timeYear": 4545,
     "dailyMinutesDown": {
-      "2023-08-04": 8
+      "2023-08-04": 0
     }
   }
 ]
