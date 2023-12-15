@@ -6,7 +6,7 @@
     "slug": "dsat",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "84.45%",
+    "uptimeDay": "84.44%",
     "uptimeWeek": "97.78%",
     "uptimeMonth": "95.85%",
     "uptimeYear": "98.28%",
@@ -16,6 +16,7 @@
     "timeMonth": 2698,
     "timeYear": 3387,
     "dailyMinutesDown": {
+      "2023-12-15": 0,
       "2023-12-14": 224,
       "2023-11-23": 991,
       "2023-11-22": 585,
