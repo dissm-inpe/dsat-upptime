@@ -4,7 +4,7 @@
     "url": "https://www.cptec.inpe.br/dsat",
     "icon": "https://icons.duckduckgo.com/ip3/www.cptec.inpe.br.ico",
     "slug": "dsat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 4242,
     "timeYear": 3738,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2025-02-27": 659,
       "2025-02-26": 1326,
       "2025-02-25": 318,
