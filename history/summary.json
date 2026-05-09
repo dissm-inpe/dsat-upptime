@@ -6,15 +6,15 @@
     "slug": "dsat",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "31.39%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "89.40%",
-    "uptimeMonth": "96.59%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "98.64%",
-    "time": 5204,
-    "timeDay": 2584,
-    "timeWeek": 3191,
-    "timeMonth": 2903,
-    "timeYear": 4936,
+    "time": 5196,
+    "timeDay": 3168,
+    "timeWeek": 3200,
+    "timeMonth": 2938,
+    "timeYear": 4933,
     "dailyMinutesDown": {
       "2026-05-08": 226,
       "2026-05-07": 762,
@@ -59,8 +59,7 @@
       "2025-05-24": 41,
       "2025-05-20": 1163,
       "2025-05-19": 347,
-      "2025-05-14": 114,
-      "2025-05-09": 111
+      "2025-05-14": 114
     }
   }
 ]
